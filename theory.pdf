@@ -1,0 +1,43 @@
+PART A FUNDAMENTALS!
+
+1. what is data analysis
+-- data analysis is a process of converting raw and miserable data into meaningfull insights it helps in cleaning data and also provide better understanding major tools for data analysis are sql,powerbi,msexcel,python etc. da is important because even before creating an ai model data should be clean and understandable.
+
+2.steps of planning data science project.
+--Business Problem
+       ↓
+Data Collection
+       ↓
+Data Cleaning
+       ↓
+EDA
+       ↓
+Feature Engineering
+       ↓
+Model Building
+       ↓
+Evaluation
+
+3.What is the machine learning problem?
+--- let us take a assumptiopn the customer churn prediction of netflix
+so the major part would be age,price,content
+---output would be a reason for churn
+
+--Using subscriber behavior data such as watch hours, subscription plan, account age, monthly charges, and days since last activity, develop a classification model that predicts whether a customer will churn. The target variable is Churn, where 1 indicates the customer has cancelled the subscription and 0 indicates the customer remains subscribed.
+
+4. what are tensors?
+-- tensors are basically container for numbers arranged in a grid
+--types:
+Rank-0 Tensor (Scalar): A single, standalone number (zero dimensions).
+--NumPy Example: np.array(42) | Shape: ().
+Rank-1 Tensor (Vector): A 1D array of numbers.
+--NumPy Example: np.array([1, 2, 3]) | Shape: (3,).
+Rank-2 Tensor (Matrix): A 2D grid of numbers with rows and columns (like a grayscale image or a database table).
+--NumPy Example: np.array([[1, 2], [3, 4]]) | Shape: (2, 2).
+Rank-3 Tensor (and beyond): A 3D stack of matrices (like a color image with Red, Green, and Blue channels).
+--NumPy Example: np.array([[[1]], [[2]]]) | Shape: (2, 1, 1)
+
+
+
+
+
