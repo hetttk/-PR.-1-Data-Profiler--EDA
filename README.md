@@ -60,6 +60,7 @@ The dataset contains customer information including:
 * Tensor Concepts and Examples
 
 ### Part B: Data Acquisition
+<img width="1522" height="797" alt="image" src="https://github.com/user-attachments/assets/b69a8c11-f97f-4509-8998-4c3ca7d6c3bc" />
 
 Data was collected from:
 
@@ -67,6 +68,7 @@ Data was collected from:
 * JSON Files
 * SQLite Database
 * API Sources
+<img width="1541" height="886" alt="image" src="https://github.com/user-attachments/assets/5c91425e-afb7-4e72-afb8-6e7f9f3ab9c1" />
 
 The collected datasets were merged and prepared for analysis.
 
@@ -86,6 +88,7 @@ The following preprocessing tasks were performed:
 EDA was performed using Seaborn visualizations.
 
 #### Univariate Analysis
+<img width="1541" height="886" alt="image" src="https://github.com/user-attachments/assets/5c91425e-afb7-4e72-afb8-6e7f9f3ab9c1" />
 
 * Age Distribution
 * Income Distribution
@@ -95,6 +98,8 @@ EDA was performed using Seaborn visualizations.
 
 #### Bivariate Analysis
 
+<img width="1508" height="682" alt="image" src="https://github.com/user-attachments/assets/e0356be6-8b25-4c54-8304-dd62f646df47" />
+
 * Gender vs Purchases
 * Income vs Churn
 * Category vs Churn
@@ -102,12 +107,15 @@ EDA was performed using Seaborn visualizations.
 * Age vs Churn
 
 #### Multivariate Analysis
+<img width="1337" height="743" alt="image" src="https://github.com/user-attachments/assets/9237ae81-301c-4476-97ef-8f55985ac32b" />
 
 * Correlation Heatmap
 * Pair Plot
 * Income vs Purchases
 * Membership Years vs Purchases
 * Last Purchase Days vs Purchases
+<img width="1304" height="1228" alt="5e221448-1871-4424-b5cb-0f050968d208" src="https://github.com/user-attachments/assets/459a1922-df29-4664-97ef-0cb4b5a08940" />
+
 
 ### Part E: Data Profiling
 
