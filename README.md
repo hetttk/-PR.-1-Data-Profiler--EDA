@@ -120,6 +120,7 @@ EDA was performed using Seaborn visualizations.
 ### Part E: Data Profiling
 
 YData Profiling was used to generate an automated profiling report containing:
+<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/76e7c18b-5a51-4155-a456-69cdf7f336f5" />
 
 * Dataset Overview
 * Variable Statistics
